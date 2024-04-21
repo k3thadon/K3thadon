@@ -1,4 +1,4 @@
-### Wassup 👋
+### Wassup, i'm 3👋
 
 <!--
 **k3thadon/K3thadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
